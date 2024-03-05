@@ -1,0 +1,23 @@
+body {
+  background-color: #1f2d3b;
+  color: #697989;
+  font-family: monospace;
+}
+
+main {
+  padding: 5%;
+  display: flex;
+  justify-content: space-around;
+  flex-direction: row;
+}
+.form {
+  display: flex;
+  flex-direction: column;
+  margin-left: 20%;
+  justify-content: center;
+}
+.login {
+  width: 50%;
+  margin-left: 10%;
+  margin-bottom: 5%;
+}
